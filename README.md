@@ -1,6 +1,7 @@
 ### Hi there 👋
 Dash: Xp1CWygTQnSQmrwcKpATj6XGCB3gsNEeVU 
 
+profile picture from http://www.giantitp.com/comics/oots0439.html
 
 <!--
 **ganthern/ganthern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
